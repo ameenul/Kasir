@@ -11,7 +11,7 @@
 
         .content {
             width: 80mm;
-            font-size: 10px;
+            font-size: 12px;
             padding: 20px;
         }
 
@@ -102,7 +102,7 @@
         @media print {
             @page {
                 width: 80mm;
-                margin: 0.5mm;
+                margin: 0mm;
             }
         }
     </style>
