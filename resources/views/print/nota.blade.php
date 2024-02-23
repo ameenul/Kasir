@@ -96,7 +96,7 @@
         .content .azost {
             margin-top: 5px;
             text-align: center;
-            font-size: 10px;
+            font-size: 12px;
         }
 
         @media print {
