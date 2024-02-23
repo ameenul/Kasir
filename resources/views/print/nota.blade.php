@@ -47,7 +47,7 @@
 
         .content .transaction-table {
             width: 100%;
-            font-size: 10px;
+            font-size: 12px;
         }
 
         .content .transaction-table .name {
@@ -261,7 +261,7 @@
             </table>
         </div>
         <div class="thanks">
-            =====================================
+            ==============================
         </div>
         {{-- <table class="transaction-table" cellspacing="0" cellpadding="0">
          <tr class="discount-tr">
