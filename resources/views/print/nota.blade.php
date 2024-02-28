@@ -1,5 +1,4 @@
 <html moznomarginboxes mozdisallowselectionprint>
-
 <head>
     <title>
         Nota Pembelian
@@ -108,11 +107,7 @@
     </style>
     <script>
         window.print();
-        window.onafterprint = function() {
-            setTimeout(function() {
-                window.close();
-            }, 1000);
-        }
+ 
     </script>
 </head>
 
