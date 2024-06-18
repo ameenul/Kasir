@@ -120,7 +120,7 @@
     <div class="content">
         <div class="title" style="padding-bottom: 13px">
             <div style="text-align: center;text-transform: uppercase;font-size: 15px">
-                AL AMWA MALANG
+                ROCKBROS<br>Store MALANG
             </div>
             <div style="text-align: center">
                 JL.KENDALSARI III NO.4 <br>MALANG 65141
