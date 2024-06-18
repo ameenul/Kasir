@@ -52,7 +52,7 @@ class TransactionController extends Controller
         
         $product = Product::where('barcode', $request->barcode)
         ->orWhere('title','like','%'.$request->barcode.'%')
-        ->limit(10)->get();;
+        ->limit(20)->get();;
         
         if($product&&$request->barcode!='') {
             return response()->json([
