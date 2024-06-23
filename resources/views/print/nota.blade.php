@@ -119,6 +119,11 @@
 <body>
     <div class="content">
         <div class="title" style="padding-bottom: 13px">
+
+        <div style="text-align: center;text-transform: uppercase;font-size: 5px">
+        <img src="/images/amwa.jpg" width="100" class="img-responsive">
+            </div>
+
             <div style="text-align: center;text-transform: uppercase;font-size: 15px">
                 AL AMWA MALANG
             </div>

@@ -1,0 +1,13 @@
+php maksimal harus 8.1
+cek .env database dan locale ada di santricoding
+set extension=gd di xampp/php/php.ini
+composer update dan install
+tambahkan folder public di storage\app baru php artisan storage:link
+
+php artisan migrate:fresh --seed
+
+npm install laravel-mix@latest
+jangan lupa install node js
+
+cara custom symlink di cmd windows
+mklink /D C:\xampp\htdocs\ProjekAkbar\kasirbaru\Kasir\storage\app\public\ C:\xampp\htdocs\ProjekAkbar\kasirbaru\public\
