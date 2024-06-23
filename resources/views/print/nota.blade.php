@@ -119,6 +119,10 @@
 <body>
     <div class="content">
         <div class="title" style="padding-bottom: 13px">
+        <div style="text-align: center;text-transform: uppercase;font-size: 5px">
+        <img src="/images/rb.jpg" width="100" class="img-responsive">
+            </div>
+        
             <div style="text-align: center;text-transform: uppercase;font-size: 15px">
                 ROCKBROS<br>Store MALANG
             </div>
@@ -126,7 +130,7 @@
                 JL.KENDALSARI III NO.4 <br>MALANG 65141
             </div>
             <div style="text-align: center">
-                082332454889
+            083856709235
             </div>
         </div>
 

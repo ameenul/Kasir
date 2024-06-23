@@ -6,5 +6,8 @@ tambahkan folder public di storage\app baru php artisan storage:link
 
 php artisan migrate:fresh --seed
 
+npm install laravel-mix@latest
+jangan lupa install node js
+
 cara custom symlink di cmd windows
 mklink /D C:\xampp\htdocs\ProjekAkbar\kasirbaru\Kasir\storage\app\public\ C:\xampp\htdocs\ProjekAkbar\kasirbaru\public\
